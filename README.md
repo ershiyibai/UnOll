@@ -18,12 +18,6 @@
 
 ## 快速开始
 
-### 安装依赖
-
-```bash
-pip install requests
-```
-
 ### 基本使用
 ```bash
 # 列出所有可用模型
