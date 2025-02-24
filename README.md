@@ -27,15 +27,12 @@ pip install requests
 ```bash
 # 列出所有可用模型
 python UnOll.py --list
-![image](https://github.com/user-attachments/assets/f3958502-ad73-40a3-96b7-a45b68732054)
 
 # 单次查询（自动选择第一个可用模型）
 python UnOll.py --prompt "你好"
-![image](https://github.com/user-attachments/assets/3b17c27c-2989-444d-b364-5922daba3d6d)
 
 # 指定远程服务器和模型
 python UnOll.py --host http://10.0.0.1:11434 --model mistral
-![image](https://github.com/user-attachments/assets/5eab62dd-d101-459e-b1bc-c56375e2894d)
 
 ```
 
